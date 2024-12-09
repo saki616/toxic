@@ -5,6 +5,8 @@
 
 Toxic is a [Tox](https://tox.chat)-based peer-to-peer messenger that provides end-to-end encrypted communications without the use of centralized servers. It supports text messaging, file sharing, 1-on-1 voice and video calls, private audio conferences, public and private text group chats, and a few built-in games you can play with your friends. Toxic requires no registration or setup, and is ready to use out of the box. Its interface is highly customizable to suit your preferences.
 
+🥵
+
 [![Toxic Screenshot](https://i.imgur.com/TwYA8L0.png "Toxic Home Screen")](https://i.imgur.com/TwYA8L0.png)
 
 ## Installation
